@@ -1,0 +1,111 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+.aqua{
+ 
+    
+    color: aqua;
+}
+
+.nod{
+border-left: 2px solid gray;
+}
+.n{
+    text-decoration: none;
+color: black;
+    margin-right: 15px;
+}
+
+.na{
+    margin-right: 15px;
+margin-left: 15%;
+padding-left: 15%;
+    text-decoration: none;
+}
+
+.nook{
+    margin-left: 10%;
+    margin-right: 15px;
+}
+
+
+.momo{
+    margin-left: 30%;
+}
+.btno{
+    margin-left: 20px;
+    color: white;
+    border: none;
+    height: 50px;
+    width: 140px;
+    background-color: aqua;
+}
+.photo{
+    background-image: url(photo.jpg);
+    background-position: center;
+    background-attachment: fixed;
+    opacity: 0.5;
+    background-repeat: no-repeat;
+
+    background-size: cover;
+height: 100%;
+width: 100%;
+
+
+
+}
+.mok{
+
+    padding-top: 20px;
+}
+
+input{
+    padding: 15px;
+    border-radius: 15px;
+    -webkit-border-radius: 15px;
+    -moz-border-radius: 15px;
+    -ms-border-radius: 15px;
+    -o-border-radius: 15px;
+}
+
+.wo{
+    color: white;
+}
+.bla{
+    color: gray;
+}
+.sectio{
+
+}
+
+
+
+.m-a{
+    padding-bottom: 20%;
+    margin-bottom: 15%;
+    margin-top: 17%;
+    margin-left: 15%;
+}
+
+
+.ff{
+    margin-left: 15px;
+}
+
+
+.ads{
+    background-color: white;
+    color: rgba(0, 0, 0, 0.829);
+    height: 50px;
+    width: 100%;
+    padding-left: 5%;
+}
+
+
+
+
+.bgo{
+    background-color: rgba(247, 241, 241, 0.644);
+}
